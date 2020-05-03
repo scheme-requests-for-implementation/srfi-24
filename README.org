@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=syntax][Syntax]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-24/][SRFI 24]]: Define-syntax in local lexical scopes, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
